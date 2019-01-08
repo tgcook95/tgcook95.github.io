@@ -30,7 +30,7 @@
 			</div>
 		 <footer>
 	 <a href="index.md">Page 1</a>
-	 <a href="Activity2Page2.html">Page 2</a>
+	 <a href="Page2.md">Page 2</a>
 	 </footer>
 
 </html>
