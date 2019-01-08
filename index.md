@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tgcook95/tgcook95.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<html lang="en">
 
-### Markdown
+     <header> 
+	 <link href="main.css" rel="stylesheet" type="text/css">
+	 <title>A2 p1</title>
+ 	 <meta charset="utf-8" />	 
+	 <h2>Activity 2 Page 1</h2>
+	 </header>
+	 <br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+			<div id="bio">
+			<section>
+				<img src="Me.jpg" alt="profile picture" height="210" width="210" align="left" hspace="30" /></p>
+				<p align="center">
+				<br>
+				My name is Taylor Cook, and I am in my last semester of college as an MIS major.  
+				I decided to take MIS after a number of different majorscuurrently have an internship 
+				at Union Pacific, where I work in IT on a special project team, deploying thousands of 
+				computers out to all of the employees after doing something we call a "BILD" process.  
+				<br>
+				<br>
+				Outside of work and school, I live at home with my girlfriend Maddy, coach youth sports, 
+				and build computers. I am from Omaha and have never lived anywhere else, but do have 
+				aspiration to move somewhere with less harsh of winters. 
+				</p>
+				</section>
+			</div>
+		 <footer>
+	 <a href="Activity2Page1.html">Page 1</a>
+	 <a href="Activity2Page2.html">Page 2</a>
+	 </footer>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tgcook95/tgcook95.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
