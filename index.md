@@ -29,7 +29,7 @@
 				</section>
 			</div>
 		 <footer>
-	 <a href="Activity2Page1.html">Page 1</a>
+	 <a href="index.md">Page 1</a>
 	 <a href="Activity2Page2.html">Page 2</a>
 	 </footer>
 
