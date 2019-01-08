@@ -1,6 +1,4 @@
 
-<!DOCTYPE html>
-
 <html lang="en">
 
      <header> 
@@ -13,7 +11,7 @@
 
 			<div id="bio">
 			<section>
-				<img src="Me.jpg" alt="profile picture" height="210" width="210" align="left" hspace="30" /></p>
+				<img src="Me.jpg" alt="profile picture" height="210" width="210" align="left" hspace="30" />
 				<p align="center">
 				<br>
 				My name is Taylor Cook, and I am in my last semester of college as an MIS major.  
