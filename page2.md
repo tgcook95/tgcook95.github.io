@@ -5,6 +5,9 @@
 	 <title>A2 p2</title>
  	 <meta charset="utf-8" />	 
 	 <h2>Activity 2 Page 2</h2>
+	 <br>
+	 <a href="index.md">Page 1</a>
+	 <a href="Page2.md">Page 2</a>
 	 </header>
 	 <br>
 	 <img id="king" src="king.jpg" alt="The Night's King"/></p>
@@ -21,11 +24,5 @@
 				</p>
 				</section>
 			</div>
-	 
-	 
-	 
-	 <footer>
-	 <a href="index.md">Page 1</a>
-	 <a href="Page2.md">Page 2</a>
-	 </footer>
+
 	 </html>
