@@ -38,19 +38,6 @@ header, .full-width
 	height: 50px;
 	text-align: center;
 	}
-	
-	footer, .full-width
-	{
-		position: absolute;
-		height: 50px;
-		margin-top: 50px;
-		background: red;
-		bottom:0;
-		color:white;
-		font-size:18;
-		font: arial;
-		text-align: center;
-		font-weight:bold;
 		
 	}
 	
