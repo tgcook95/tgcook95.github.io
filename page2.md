@@ -10,7 +10,7 @@
 	 <a href="Page2.md">Page 2</a>
 	 </header>
 	 <br>
-	 <img id="king" src="king.jpg" alt="The Night's King"/></p>
+	 <img id="king" src="king.jpg" alt="The Night's King"/>
 	 <div id="thrones">
 			<section>
 				<p align="center">
