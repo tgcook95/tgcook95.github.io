@@ -5,8 +5,6 @@
 	 <link href="main.css" rel="stylesheet" type="text/css">
 	 <title>A2 p1</title>
  	 <meta charset="utf-8" />	 
-	 <h2>Activity 2 Page 1</h2>
-	<br>
 	<a href="index.md">Page 1</a>
 	<a href="Page2.md">Page 2</a>
 	 </header>
