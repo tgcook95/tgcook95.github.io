@@ -42,7 +42,6 @@ header, .full-width
 	footer, .full-width
 	{
 		position: absolute;
-		width: 100%;
 		height: 50px;
 		margin-top: 50px;
 		background: red;
