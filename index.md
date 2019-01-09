@@ -5,7 +5,7 @@
 	 <link href="main.css" rel="stylesheet" type="text/css">
 	 <title>A2 p1</title>
  	 <meta charset="utf-8" />	 
-	<a href="index.md">Page 1</a>
+	<a href="index.html">Page 1</a>
 	<a href="Page2.md">Page 2</a>
 	 </header>
 	 <br>
